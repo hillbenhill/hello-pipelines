@@ -1,5 +1,8 @@
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
+# Triiger on push to mater could be on  PR approval after code qualty autotest results 
+# pool build image created in this case it will be a ubuntu docker
+# dont run build into VM build pipeline runs in a container in this case 
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
